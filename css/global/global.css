@@ -6,6 +6,8 @@ body {
 
 h1,
 ul,
+h2,
+h3,
 p {
   margin: 0px;
 }
@@ -23,4 +25,8 @@ a {
 img {
   max-width: 100%;
   display: block;
+}
+/*Seleciona um tipo especifico quando se tem o source = src*/
+img[src$=".jpg"] {
+  border-radius: 4px;
 }
