@@ -10,6 +10,10 @@
 @import "./home/introducao.css";
 @import "./home/parceiros.css";
 @import "./home/tecnologia.css";
+@import "./home/depoimento.css";
+
+/*Seguros*/
+@import "./seguros/seguros.css";
 
 /*Bicicletas*/
 @import "./bicicletas/bicicletas-lista.css";
