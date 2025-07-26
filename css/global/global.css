@@ -3,12 +3,15 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+
+
 h1,
 ul,
 h2,
 h3,
 p,
-blockquote {
+blockquote,
+dd{
   margin: 0px;
 }
 
