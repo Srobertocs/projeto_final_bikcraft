@@ -17,6 +17,10 @@
   overflow-x: auto; /*Possibilita que a minha lista possa scrollar para o lado sem afetar o container*/
 }
 
+#bicicleta .bicicletas-lista ul{
+  padding: 0 0 20px 0;
+}
+
 .bicicletas-lista li {
   min-width: 280px;
 }
